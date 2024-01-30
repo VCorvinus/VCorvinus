@@ -10,7 +10,7 @@ npm install @react-three/fiber @react-three/drei maath react-parallax-tilt react
 
 npm run dev
 
-STOP!
+<!-- STOP! -->
 
 npm install --legacy-peer-deps -D postcss autoprefixer
 
@@ -18,13 +18,13 @@ npx tailwindcss init -p
 
 npm run dev
 
-STOP!
+<!-- STOP! -->
 
 npm install --legacy-peer-deps three
 
 npm run dev
 
-STOP!
+<!-- STOP! -->
 
 <!-- npm uninstall react-tilt --legacy-peer-deps
 
