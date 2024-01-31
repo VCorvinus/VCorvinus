@@ -35,3 +35,10 @@ npm install react-parallax-tilt -->
 <!-- npm install @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom -->
 
 npm i @react-three/fiber --force
+
+<!-- Implementing React Router Dom: "Making use of it"
+
+modded
+-App.jsx -->
+
+FUCK THIS SHIT!!!
