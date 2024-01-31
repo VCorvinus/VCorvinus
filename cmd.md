@@ -6,9 +6,11 @@ npx tailwindcss init
 
 <!-- npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom -->
 
-npm install @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+<!-- npm install @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom -->
 
-npm run dev
+npm install @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom localforage match-sorter sort-by
+
+<!-- npm run dev -->
 
 <!-- STOP! -->
 
@@ -16,13 +18,13 @@ npm install --legacy-peer-deps -D postcss autoprefixer
 
 npx tailwindcss init -p
 
-npm run dev
+<!-- npm run dev -->
 
 <!-- STOP! -->
 
 npm install --legacy-peer-deps three
 
-npm run dev
+<!-- npm run dev -->
 
 <!-- STOP! -->
 
