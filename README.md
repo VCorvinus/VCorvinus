@@ -8,7 +8,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
 ## About me 
 
 <p>
-    My name is Vincent-Corvin. I'm 29 years old, born and raised in Germany. Currently I'm studying web development at <a href="https://digitalcareerinstitute.org"><img width="50px" alt="dci logo" src="https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg" ></a>.<br>Before joining DCI I studied Industrial Design (B.A.) at the <a href="https://www.hs-osnabrueck.de/en/" style="text-decoration: none;"> Osnabrück University of Applied Sciences</a> <a href="https://www.hs-osnabrueck.de/en/study/study-offerings/bachelor/industrial-product-design-ba/"><img src="https://i.ibb.co/93TqKJr/Uo-AS-cropped.png" width="25" /></a> in Germany.<br>
+    My name is Vincent-Corvin. I'm 29 years old, born and raised in Germany. Currently, I'm studying web development at <a href="https://digitalcareerinstitute.org"><img width="50px" alt="dci logo" src="https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg" ></a>.<br>Before joining DCI, I studied Industrial Design (B.A.) at the <a href="https://www.hs-osnabrueck.de/en/" style="text-decoration: none;"> Osnabrück University of Applied Sciences</a> <a href="https://www.hs-osnabrueck.de/en/study/study-offerings/bachelor/industrial-product-design-ba/"><img src="https://i.ibb.co/93TqKJr/Uo-AS-cropped.png" width="25" /></a> in Germany.<br>
     <br>
     <img src="https://slack-imgs.com/?c=1&o1=gu&url=https%3A%2F%2Femoji.slack-edge.com%2FT7HTC0C6B%2Fcrow%2F20a5365ff996ea8d.gif" width="40px" alt="raven" />
     <!--~Fare well
@@ -23,8 +23,12 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
 📖 Devourer of Literature<br>
 🎮 Avid Gamer<br>
 🎓 Student at <a href="https://digitalcareerinstitute.org" style="text-decoration: none;">DCI</a><br>
-📝 Currently working on my Portfolio<br>
+📝 Currently working on my portfolio<br>
 💻 Open to work<br>
+<br>
+<br>
+💬 <b>Motto:</b><i>Alway Validate!</i>
+<br>
 
 
 #
