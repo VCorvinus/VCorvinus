@@ -56,6 +56,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
   <img width="25" />
   <img src="https://i.ibb.co/8P4jKdD/Finder-Icon-mac-OS-Big-Sur-cropped.png" height="40" alt="finder logo" />
 </div>
+<br>
 
 ###
 
@@ -112,6 +113,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
     </div>
+    <br>
 
 
 ###
@@ -130,6 +132,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
   <img width="12" />
 </div>
+<br>
 
 #
 
