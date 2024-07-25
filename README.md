@@ -8,7 +8,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
 ## About me 
 
 <p>
-    My name is Vincent-Corvin. I'm 29 years old, born and raised in Germany. Currently I'm studying web development at <a href="https://digitalcareerinstitute.org"><img width="50px" alt="DCI Logo, blue colored letters 'DCI', and their meaning 'digital career institute'" src="https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg" ></a>.<br>Before joining DCI I studied Industrial Design (B.A.) at the <a href="https://www.hs-osnabrueck.de/en/"> Osnabrück University of Applied Sciences</a> <a href="https://www.hs-osnabrueck.de/en/study/study-offerings/bachelor/industrial-product-design-ba/"><img src="https://i.ibb.co/93TqKJr/Uo-AS-cropped.png" width="25" /></a> in Germany.<br>
+    My name is Vincent-Corvin. I'm 29 years old, born and raised in Germany. Currently I'm studying web development at <a href="https://digitalcareerinstitute.org"><img width="50px" alt="dci logo" src="https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg" ></a>.<br>Before joining DCI I studied Industrial Design (B.A.) at the <a href="https://www.hs-osnabrueck.de/en/" style="text-decoration: none;"> Osnabrück University of Applied Sciences</a> <a href="https://www.hs-osnabrueck.de/en/study/study-offerings/bachelor/industrial-product-design-ba/"><img src="https://i.ibb.co/93TqKJr/Uo-AS-cropped.png" width="25" /></a> in Germany.<br>
     <br>
     <img src="https://slack-imgs.com/?c=1&o1=gu&url=https%3A%2F%2Femoji.slack-edge.com%2FT7HTC0C6B%2Fcrow%2F20a5365ff996ea8d.gif" width="40px" alt="raven" />
     <!--~Fare well
@@ -22,7 +22,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
 
 📖 Devourer of Literature<br>
 🎮 Avid Gamer<br>
-🎓 Student at [DCI](https://digitalcareerinstitute.org)<br>
+🎓 Student at <a href="https://digitalcareerinstitute.org" style="text-decoration: none;">DCI</a><br>
 📝 Currently working on my Portfolio<br>
 💻 Open to work<br>
 
@@ -54,3 +54,96 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
   <img width="25" />
   <img src="https://i.ibb.co/8P4jKdD/Finder-Icon-mac-OS-Big-Sur-cropped.png" height="40" alt="finder logo" />
 </div>
+
+###
+
+### Languages & Tools ▼
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" height="40" alt="js logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/g95rVyc/markdown-1024x731.png" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" height="40" alt="github logo"  />
+  <img width="12" />
+</div>
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://www.rhino3d.com/8/v8-icon-small.png" height="40" alt="rhino 3d logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" height="40" alt="sw logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Archicad-logo-1.png" height="40" alt="archicad logo"  />
+  <img width="12" />
+  <img src="https://www.nota3d.com/wp-content/uploads/2020/08/FREEFORM-1.png" height="40" alt="ff logo"  />
+  <img width="12" />
+  </div>
+  <br>
+  <div align="left">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="ps logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="ai logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" height="40" alt="id logo"  />
+   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="40" alt="krita logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Paint_tool_sai_logo.png" height="40" alt="sai logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+   <img src="https://seeklogo.com/images/Z/ZBrush-logo-43D6324DC8-seeklogo.com.png" height="40" alt="zbrush logo"  />
+<img width="12" />
+  </div>
+  <br>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+    </div>
+
+
+###
+
+
+
+###
+
+### Socials ▼
+
+<div align="left">
+<a href="www.linkedin.com/in/vincent-corvin-gnodtke"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>
+  <img width="12" />
+  <a href="https://dcistudents.slack.com/team/U05G01AGZNC"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  /></a>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+  <img width="12" />
+</div>
+
+#
+
+###
+
+### 📋 My Stats ▼
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VCorvinus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=VCorvinus&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/VCorvinus/count.svg?"  />
+</div>
+
+###
