@@ -135,9 +135,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
 
 ### 📋 My Stats ▼
 
-<div>
 ![](https://komarev.com/ghpvc/?username=VCorvinus&color=4000ff)
-</div>
 <br>
 
 <div align="center">
