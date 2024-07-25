@@ -42,6 +42,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
   <img width="12" />
   <img src="https://i.ibb.co/zfg4KBs/linux-cropped.png" height="40" alt="linux logo"  />
 </div>
+<br>
 
 ###
 
