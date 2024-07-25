@@ -27,7 +27,7 @@ Web Development Student since 2023 | Industrial Designer since 2013 | Comic Book
 💻 Open to work<br>
 <br>
 <br>
-💬 <b>Motto:</b><i>Alway Validate!</i>
+💬 <b>Motto:</b> <i>Validate until there's no debate!</i>
 <br>
 
 
